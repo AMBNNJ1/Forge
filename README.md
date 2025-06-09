@@ -41,8 +41,8 @@
 ## 📦 Install & Run (Development)
 
 ```bash
-git clone https://github.com/your-org/tokenforge.git
-cd tokenforge
+git clone https://github.com/AMBNNJ/Forge.git
+cd Forge
 
 # Install dependencies
 npm install
