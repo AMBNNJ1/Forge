@@ -28,3 +28,15 @@ Continue building your app on:
 2. Deploy your chats from the v0 interface
 3. Changes are automatically pushed to this repository
 4. Vercel deploys the latest version from this repository
+
+
+## Local Development
+
+To run the project locally, install dependencies and start the dev server:
+
+```bash
+pnpm install
+pnpm dev
+```
+
+If you see TypeScript errors like `Cannot find module 'react'`, make sure dependencies are installed.
